@@ -1,0 +1,10 @@
+c:\users\bhowell\documents\visual studio 2010\Projects\Embedded Tableau Example\Embedded Tableau Example\bin\Debug\Embedded Tableau Example.exe
+c:\users\bhowell\documents\visual studio 2010\Projects\Embedded Tableau Example\Embedded Tableau Example\bin\Debug\Embedded Tableau Example.pdb
+c:\users\bhowell\documents\visual studio 2010\Projects\Embedded Tableau Example\Embedded Tableau Example\obj\x86\Debug\Embedded_Tableau_Example.Form1.resources
+c:\users\bhowell\documents\visual studio 2010\Projects\Embedded Tableau Example\Embedded Tableau Example\obj\x86\Debug\Embedded_Tableau_Example.Properties.Resources.resources
+c:\users\bhowell\documents\visual studio 2010\Projects\Embedded Tableau Example\Embedded Tableau Example\obj\x86\Debug\Embedded Tableau Example.csproj.GenerateResource.Cache
+c:\users\bhowell\documents\visual studio 2010\Projects\Embedded Tableau Example\Embedded Tableau Example\obj\x86\Debug\Embedded Tableau Example.exe
+c:\users\bhowell\documents\visual studio 2010\Projects\Embedded Tableau Example\Embedded Tableau Example\obj\x86\Debug\Embedded Tableau Example.pdb
+C:\Users\bhowell\Documents\Visual Studio 2010\Projects\Embedded Tableau Example\Embedded Tableau Example\obj\x86\Debug\Embedded Tableau Example.csprojResolveAssemblyReference.cache
+C:\Users\bhowell\documents\visual studio 2010\Projects\Embedded Tableau Example\Embedded Tableau Example\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\bhowell\documents\visual studio 2010\Projects\Embedded Tableau Example\Embedded Tableau Example\obj\x86\Debug\Embedded Tableau Example.csproj.ResolveComReference.cache
